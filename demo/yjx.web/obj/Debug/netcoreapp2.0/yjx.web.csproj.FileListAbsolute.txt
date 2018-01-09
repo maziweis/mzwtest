@@ -1,0 +1,11 @@
+F:\我的工作目录\demo\yjx.web\bin\Debug\netcoreapp2.0\yjx.web.deps.json
+F:\我的工作目录\demo\yjx.web\bin\Debug\netcoreapp2.0\yjx.web.runtimeconfig.json
+F:\我的工作目录\demo\yjx.web\bin\Debug\netcoreapp2.0\yjx.web.runtimeconfig.dev.json
+F:\我的工作目录\demo\yjx.web\bin\Debug\netcoreapp2.0\yjx.web.dll
+F:\我的工作目录\demo\yjx.web\bin\Debug\netcoreapp2.0\yjx.web.pdb
+F:\我的工作目录\demo\yjx.web\obj\Debug\netcoreapp2.0\yjx.web.csprojResolveAssemblyReference.cache
+F:\我的工作目录\demo\yjx.web\obj\Debug\netcoreapp2.0\yjx.web.csproj.CoreCompileInputs.cache
+F:\我的工作目录\demo\yjx.web\obj\Debug\netcoreapp2.0\yjx.web.AssemblyInfoInputs.cache
+F:\我的工作目录\demo\yjx.web\obj\Debug\netcoreapp2.0\yjx.web.AssemblyInfo.cs
+F:\我的工作目录\demo\yjx.web\obj\Debug\netcoreapp2.0\yjx.web.dll
+F:\我的工作目录\demo\yjx.web\obj\Debug\netcoreapp2.0\yjx.web.pdb

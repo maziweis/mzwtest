@@ -1,0 +1,11 @@
+F:\我的工作目录\demo\yjx.core.service.wx\bin\Release\netcoreapp2.0\yjx.core.service.wx.deps.json
+F:\我的工作目录\demo\yjx.core.service.wx\bin\Release\netcoreapp2.0\yjx.core.service.wx.dll
+F:\我的工作目录\demo\yjx.core.service.wx\bin\Release\netcoreapp2.0\yjx.core.service.wx.pdb
+F:\我的工作目录\demo\yjx.core.service.wx\bin\Release\netcoreapp2.0\yjx.core.common.dll
+F:\我的工作目录\demo\yjx.core.service.wx\bin\Release\netcoreapp2.0\yjx.core.common.pdb
+F:\我的工作目录\demo\yjx.core.service.wx\obj\Release\netcoreapp2.0\yjx.core.service.wx.csprojResolveAssemblyReference.cache
+F:\我的工作目录\demo\yjx.core.service.wx\obj\Release\netcoreapp2.0\yjx.core.service.wx.csproj.CoreCompileInputs.cache
+F:\我的工作目录\demo\yjx.core.service.wx\obj\Release\netcoreapp2.0\yjx.core.service.wx.AssemblyInfoInputs.cache
+F:\我的工作目录\demo\yjx.core.service.wx\obj\Release\netcoreapp2.0\yjx.core.service.wx.AssemblyInfo.cs
+F:\我的工作目录\demo\yjx.core.service.wx\obj\Release\netcoreapp2.0\yjx.core.service.wx.dll
+F:\我的工作目录\demo\yjx.core.service.wx\obj\Release\netcoreapp2.0\yjx.core.service.wx.pdb

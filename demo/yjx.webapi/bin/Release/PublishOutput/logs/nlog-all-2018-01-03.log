@@ -1,0 +1,5 @@
+2018-01-03 17:09:01.7202|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://192.168.3.187:1004/api/Wx/GetData?openid=213123&userid=3123213   
+2018-01-03 17:09:01.7522|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executing action method yjx.webapi.Controllers.WxController.GetData (yjx.webapi) with arguments (213123, 3123213) - ModelState is Valid 
+2018-01-03 17:09:01.7522|yjx.webapi.Controllers.WxController|ERROR|213123:3123213 
+2018-01-03 17:09:01.7522|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executed action yjx.webapi.Controllers.WxController.GetData (yjx.webapi) in 3.4974ms 
+2018-01-03 17:09:01.7522|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 36.2304ms 200  

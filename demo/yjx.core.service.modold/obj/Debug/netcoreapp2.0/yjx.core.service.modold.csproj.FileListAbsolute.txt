@@ -1,0 +1,17 @@
+E:\Projects\05-优教学3\demo\yjx.core.service.modold\bin\Debug\netcoreapp2.0\yjx.core.service.modold.deps.json
+E:\Projects\05-优教学3\demo\yjx.core.service.modold\bin\Debug\netcoreapp2.0\yjx.core.service.modold.dll
+E:\Projects\05-优教学3\demo\yjx.core.service.modold\bin\Debug\netcoreapp2.0\yjx.core.service.modold.pdb
+E:\Projects\05-优教学3\demo\yjx.core.service.modold\obj\Debug\netcoreapp2.0\yjx.core.service.modold.csproj.CoreCompileInputs.cache
+E:\Projects\05-优教学3\demo\yjx.core.service.modold\obj\Debug\netcoreapp2.0\yjx.core.service.modold.AssemblyInfoInputs.cache
+E:\Projects\05-优教学3\demo\yjx.core.service.modold\obj\Debug\netcoreapp2.0\yjx.core.service.modold.AssemblyInfo.cs
+E:\Projects\05-优教学3\demo\yjx.core.service.modold\obj\Debug\netcoreapp2.0\yjx.core.service.modold.dll
+E:\Projects\05-优教学3\demo\yjx.core.service.modold\obj\Debug\netcoreapp2.0\yjx.core.service.modold.pdb
+F:\我的工作目录\demo\yjx.core.service.modold\bin\Debug\netcoreapp2.0\yjx.core.service.modold.deps.json
+F:\我的工作目录\demo\yjx.core.service.modold\bin\Debug\netcoreapp2.0\yjx.core.service.modold.dll
+F:\我的工作目录\demo\yjx.core.service.modold\bin\Debug\netcoreapp2.0\yjx.core.service.modold.pdb
+F:\我的工作目录\demo\yjx.core.service.modold\obj\Debug\netcoreapp2.0\yjx.core.service.modold.csproj.CoreCompileInputs.cache
+F:\我的工作目录\demo\yjx.core.service.modold\obj\Debug\netcoreapp2.0\yjx.core.service.modold.AssemblyInfoInputs.cache
+F:\我的工作目录\demo\yjx.core.service.modold\obj\Debug\netcoreapp2.0\yjx.core.service.modold.AssemblyInfo.cs
+F:\我的工作目录\demo\yjx.core.service.modold\obj\Debug\netcoreapp2.0\yjx.core.service.modold.dll
+F:\我的工作目录\demo\yjx.core.service.modold\obj\Debug\netcoreapp2.0\yjx.core.service.modold.pdb
+F:\我的工作目录\demo\yjx.core.service.modold\obj\Debug\netcoreapp2.0\yjx.core.service.modold.csprojResolveAssemblyReference.cache

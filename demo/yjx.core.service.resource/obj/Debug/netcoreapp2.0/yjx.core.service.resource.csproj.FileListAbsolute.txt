@@ -1,0 +1,16 @@
+E:\Projects\05-优教学3\demo\yjx.core.service.resource\bin\Debug\netcoreapp2.0\yjx.core.service.resource.deps.json
+E:\Projects\05-优教学3\demo\yjx.core.service.resource\bin\Debug\netcoreapp2.0\yjx.core.service.resource.dll
+E:\Projects\05-优教学3\demo\yjx.core.service.resource\bin\Debug\netcoreapp2.0\yjx.core.service.resource.pdb
+E:\Projects\05-优教学3\demo\yjx.core.service.resource\obj\Debug\netcoreapp2.0\yjx.core.service.resource.csproj.CoreCompileInputs.cache
+E:\Projects\05-优教学3\demo\yjx.core.service.resource\obj\Debug\netcoreapp2.0\yjx.core.service.resource.AssemblyInfoInputs.cache
+E:\Projects\05-优教学3\demo\yjx.core.service.resource\obj\Debug\netcoreapp2.0\yjx.core.service.resource.AssemblyInfo.cs
+E:\Projects\05-优教学3\demo\yjx.core.service.resource\obj\Debug\netcoreapp2.0\yjx.core.service.resource.dll
+E:\Projects\05-优教学3\demo\yjx.core.service.resource\obj\Debug\netcoreapp2.0\yjx.core.service.resource.pdb
+F:\我的工作目录\demo\yjx.core.service.resource\bin\Debug\netcoreapp2.0\yjx.core.service.resource.deps.json
+F:\我的工作目录\demo\yjx.core.service.resource\bin\Debug\netcoreapp2.0\yjx.core.service.resource.dll
+F:\我的工作目录\demo\yjx.core.service.resource\bin\Debug\netcoreapp2.0\yjx.core.service.resource.pdb
+F:\我的工作目录\demo\yjx.core.service.resource\obj\Debug\netcoreapp2.0\yjx.core.service.resource.csproj.CoreCompileInputs.cache
+F:\我的工作目录\demo\yjx.core.service.resource\obj\Debug\netcoreapp2.0\yjx.core.service.resource.AssemblyInfoInputs.cache
+F:\我的工作目录\demo\yjx.core.service.resource\obj\Debug\netcoreapp2.0\yjx.core.service.resource.AssemblyInfo.cs
+F:\我的工作目录\demo\yjx.core.service.resource\obj\Debug\netcoreapp2.0\yjx.core.service.resource.dll
+F:\我的工作目录\demo\yjx.core.service.resource\obj\Debug\netcoreapp2.0\yjx.core.service.resource.pdb
